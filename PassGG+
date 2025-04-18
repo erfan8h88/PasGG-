@@ -1,0 +1,14 @@
+پروژه/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/myapp/
+│   │   │   │   └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   └── values/
+│   │   │   │       └── strings.xml
+│   │   │   └── AndroidManifest.xml
+│   └── build.gradle
+└── build.gradle
